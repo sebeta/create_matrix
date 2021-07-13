@@ -8,4 +8,6 @@ const createMatrix = (row, col) => {
     element.innerHTML = html
 }
 
-createMatrix(3, 3)
+let rows = parseInt(prompt('Please enter the number of rows:'))
+let columns = parseInt(prompt('Please enter the number of columns:'))
+createMatrix(rows, columns)
