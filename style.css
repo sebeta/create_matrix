@@ -1,0 +1,14 @@
+div {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(236, 236, 236);
+    border: 1px solid black;
+    float: left;
+  }
+
+  table tr td {
+    height: 80px;
+    width: 80px;
+    background-color: rgb(236, 236, 236);
+    border: 1px solid black;
+  }
